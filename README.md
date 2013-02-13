@@ -1,5 +1,4 @@
 java-from-yesteryear
 ====================
 
-mvn clean package
-mvn javadoc:javadoc
+mvn clean package -Dmaven.compiler.showDeprecation=true
