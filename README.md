@@ -1,5 +1,4 @@
 java-from-yesteryear
 ====================
 
-mvn clean package
-mvn javadoc:javadoc
+Rough sample of Inversion of Control concepts and an introduction to mock objects.
